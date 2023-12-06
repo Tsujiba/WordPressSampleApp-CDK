@@ -5,6 +5,10 @@ which contains an Amazon SQS queue that is subscribed to an Amazon SNS topic.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
+## 参考/構成
+- https://catalog.workshops.aws/typescript-and-cdk-for-beginner/ja-JP
+
+
 ## Useful commands
 
 * `npm run build`   compile typescript to js
